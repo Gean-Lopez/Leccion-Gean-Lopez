@@ -11,4 +11,5 @@ canvas {
   border: 2px solid white;
   background-color: #111;
   display: block;
+  cursor: pointer;
 }
